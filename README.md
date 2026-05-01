@@ -1,10 +1,9 @@
 # Credit Card Fraud Risk Analysis Dashboard
 
 ## Project Overview
-The **Credit Card Fraud Risk Analysis Dashboard** is a Power BI project designed to analyze fraudulent credit card transactions and identify fraud patterns across different transaction categories, states, and time periods.
-
-The dashboard helps analysts understand fraud risks, detect suspicious activities, and monitor trends that could indicate fraudulent behavior.
-
+The **Credit Card Fraud Risk Analysis Dashboard** Transiaction Fraud analysis
+This project presents a Power BI dashboard focused on analyzing high-risk financial transactions across different fraud types and industries. The analysis identifies identity theft (24%) as the dominant fraud category, with notable patterns in account takeover and card-not-present transactions. It highlights temporal trends, including peak fraud activity on specific days, and provides insights into sector-based risks such as e-commerce, transportation, and food delivery.
+![Image](https://github.com/saeedullah-tech/Credit-Card-Fraud-Risk-Analysis/blob/0e98a4c6766e895b44f97c8a358954351f94e93f/Fraudanalysis-Trim-ezgif.com-video-to-gif-converter.gif)
 ---
 
 ## Dashboard Preview
