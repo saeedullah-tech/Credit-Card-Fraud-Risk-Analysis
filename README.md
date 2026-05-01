@@ -5,7 +5,7 @@ The **Credit Card Fraud Risk Analysis Dashboard** Transiaction Fraud analysis
 This project presents a Power BI dashboard focused on analyzing high-risk financial transactions across different fraud types and industries. The analysis identifies identity theft (24%) as the dominant fraud category, with notable patterns in account takeover and card-not-present transactions. It highlights temporal trends, including peak fraud activity on specific days, and provides insights into sector-based risks such as e-commerce, transportation, and food delivery.
 ## Dashboard Preview
 ---
-![Image](https://github.com/saeedullah-tech/Credit-Card-Fraud-Risk-Analysis/blob/0e98a4c6766e895b44f97c8a358954351f94e93f/Fraudanalysis-Trim-ezgif.com-video-to-gif-converter.gif)
+![Image](https://github.com/saeedullah-tech/Credit-Card-Fraud-Risk-Analysis/blob/7fd3a1509544cc6c594f2b10156df4522e7b2876/Fraudanalysis-Trim-ezgif.com-video-to-gif-converter%20(1).gif)
 ---
 
 
